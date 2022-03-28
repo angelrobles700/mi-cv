@@ -1,0 +1,45 @@
+
+
+header{background:#c8f1fd;}
+body{
+  
+    background: rgb(184, 233, 200) ;
+    color:#5900ff;;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    h1{ font-size: 60px;
+        font-family:Verdana;
+        font-weight: bold;}
+
+    footer{background: blue ; 
+        font-family:monospace;
+    color: white;}
+    #navega {
+        font-family:serif;
+        background: rgb(96, 225, 248);
+         color:brown
+    }
+    #presenta {
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode';
+        background: rgb(255, 228, 170);
+         color:rgb(109, 0, 0)
+    }
+
+    header,section,footer,aside,nav,article,ul{
+        border:1px solid black;
+    }
+    video{
+        width: 150px;
+        margin: auto;
+        display: block;
+    }
+    img{
+        max-width: 220px;
+        max-height: 1800px;
+        margin: auto;
+        display: block;
+    }
+
+
+
+
